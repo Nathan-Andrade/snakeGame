@@ -19,5 +19,6 @@ function createSnake(){
   }
 }
 
+//chamando as funções
 createBg();
 createSnake();
